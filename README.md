@@ -1,0 +1,1 @@
+files consist of data of different companies which was shipping to different countries and what was the expenditure of shippings and how much stock was shipping to each country all the details are given in the form of charts and summarization
